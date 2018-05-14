@@ -1,4 +1,4 @@
-package lsp_banking_no_ocp;
+package lsp_banking_without_ocp;
 
 import java.math.BigDecimal;
 
